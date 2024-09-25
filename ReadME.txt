@@ -1,5 +1,3 @@
 Hello world
-<<<<<<< HEAD
-bye
-=======
->>>>>>> future
+GoodBye world
+Orange
