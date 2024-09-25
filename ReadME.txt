@@ -1,3 +1,5 @@
 Hello world
-Good
+<<<<<<< HEAD
 bye
+=======
+>>>>>>> future
