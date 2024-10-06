@@ -1,5 +1,5 @@
 Hello world
-<<<<<<< HEAD
-bye
-=======
->>>>>>> future
+GoodBye world
+Orange
+Apple
+PineApple
